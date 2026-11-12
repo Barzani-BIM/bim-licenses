@@ -4,6 +4,7 @@
   "message": "",
   "devices": {
     "9207-B44E-8713": {"name": "Barzani / PC", "active": true},
-    "E2F5-154F-9229": {"name": "Barzani / Phone", "active": true}
+    "E2F5-154F-9229": {"name": "Barzani / Phone", "active": true},
+    "3704-04E6-BBBA": {"name": "Vejeen / PC", "active": true}
   }
 }
