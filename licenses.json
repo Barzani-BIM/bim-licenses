@@ -3,6 +3,6 @@
   "enabled": true,
   "message": "",
   "devices": {
-    "9207-B44E-8713": {"name": "Barzani / PC", "active": false}
+    "9207-B44E-8713": {"name": "Barzani / PC", "active": true}
   }
 }
