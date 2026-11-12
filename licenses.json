@@ -5,7 +5,6 @@
   "devices": {
     "9207-B44E-8713": {"name": "Barzani / PC", "active": true},
     "E2F5-154F-9229": {"name": "Barzani / Phone", "active": true},
-    "3704-04E6-BBBA": {"name": "Vejeen / PC", "active": true},
-    "0D27-C51B-F0C6": {"name": "Aprem / PC", "active": true}
+    "3704-04E6-BBBA": {"name": "Vejeen / PC", "active": true}
   }
 }
