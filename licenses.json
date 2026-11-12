@@ -3,6 +3,7 @@
   "enabled": true,
   "message": "",
   "devices": {
-    "9207-B44E-8713": {"name": "Barzani / PC", "active": true}
+    "9207-B44E-8713": {"name": "Barzani / PC", "active": true},
+    "E2F5-154F-9229": {"name": "Barzani / Phone", "active": true}
   }
 }
