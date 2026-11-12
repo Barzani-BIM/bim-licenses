@@ -1,0 +1,8 @@
+{
+  "app": "BIM Field Tools",
+  "enabled": true,
+  "message": "",
+  "devices": {
+    "XXXX-XXXX-XXXX": {"name": "example - replace with a real code", "active": false}
+  }
+}
